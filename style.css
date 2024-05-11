@@ -1,0 +1,23 @@
+.body {
+  width: 250px;
+}
+.avatar {
+  width: 200px;
+  height: 200px;
+}
+.header {
+  display: flex;
+}
+.name {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.contacts {
+  margin-left: 20px;
+}
+.page {
+  display: flex;
+  justify-content: center;
+}
