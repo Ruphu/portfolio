@@ -17,19 +17,12 @@
 .contacts {
   margin-left: 20px;
 }
-.page {
-  display: flex;
-  justify-content: center;
-}
+.page,
+.lang,
+.courses,
+.competency,
+.educ,
 .exp {
-  display: flex;
-  justify-content: center;
-}
-.educ {
-  display: flex;
-  justify-content: center;
-}
-.competency {
   display: flex;
   justify-content: center;
 }
